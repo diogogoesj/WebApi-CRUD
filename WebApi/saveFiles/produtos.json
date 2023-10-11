@@ -1,0 +1,26 @@
+[
+  {
+    "ProdutoId": 2,
+    "Nome": "Fanta Uva",
+    "Preco": 40.0,
+    "Estoque": 19.0,
+    "DataCadastro": "2023-10-06T20:00:37.444Z",
+    "ValorTotal": 0.0
+  },
+  {
+    "ProdutoId": 3,
+    "Nome": "Fanta Laranja",
+    "Preco": 2.50,
+    "Estoque": 10.0,
+    "DataCadastro": "2023-10-11T00:26:44.475Z",
+    "ValorTotal": 0.0
+  },
+  {
+    "ProdutoId": 4,
+    "Nome": "Fanta Limonada",
+    "Preco": 10.0,
+    "Estoque": 10.0,
+    "DataCadastro": "2023-10-11T00:50:26.369Z",
+    "ValorTotal": 0.0
+  }
+]
